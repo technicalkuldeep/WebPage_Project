@@ -106,7 +106,7 @@ export default function Home() {
       technologies: ["Solidity", "React.js", "Web3.js", "Hardhat"],
       image: "/dApp.png?height=600&width=800",
       codeUrl: "https://github.com/technicalkuldeep/dApp",
-      demoUrl: "https://d-app-psi.vercel.app/tps://defi-exchange.vercel.app",
+      demoUrl: "https://d-app-psi.vercel.app/",
     },
     {
       title: "W3W [Web3 Wallet]",
