@@ -101,20 +101,20 @@ export default function Home() {
 
   const projects = [
     {
-      title: "DeFi Exchange",
-      description: "A decentralized exchange platform built on Ethereum.",
+      title: "Decentralised App",
+      description: "A decentralized App platform built on Solana.",
       technologies: ["Solidity", "React.js", "Web3.js", "Hardhat"],
-      image: "/placeholder.svg?height=600&width=800",
-      codeUrl: "https://github.com/username/defi-exchange",
-      demoUrl: "https://defi-exchange.vercel.app",
+      image: "/dApp.png?height=600&width=800",
+      codeUrl: "https://github.com/technicalkuldeep/dApp",
+      demoUrl: "https://d-app-psi.vercel.app/tps://defi-exchange.vercel.app",
     },
     {
-      title: "NFT Marketplace",
-      description: "A marketplace for creating and trading NFTs.",
+      title: "W3W [Web3 Wallet]",
+      description: "Solana Wallet Generation .",
       technologies: ["Next.js", "Ethereum", "IPFS", "TypeScript"],
-      image: "/placeholder.svg?height=600&width=800",
-      codeUrl: "https://github.com/username/nft-marketplace",
-      demoUrl: "https://nft-marketplace.vercel.app",
+      image: "/wallet.png",
+      codeUrl: "https://github.com/technicalkuldeep/W3W",
+      demoUrl: "https://wallet.gihtub.in",
     },
   ] as const
 
