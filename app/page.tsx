@@ -116,6 +116,15 @@ export default function Home() {
       codeUrl: "https://github.com/technicalkuldeep/W3W",
       demoUrl: "https://wallet.gihtub.in",
     },
+    {
+      title: "Solana Tap-to-Pay",
+      description: "Create payment requests on devnet in seconds",
+      technologies: ["Next.js", "Solana", "TypeScript", "JavaScript"],
+      image: "/Pay.png",
+      codeUrl: "https://github.com/technicalkuldeep/Solana-Tap-to-Pay",
+      demoUrl: "https://solana.gihtub.in",
+    },
+
   ] as const
 
   return (
